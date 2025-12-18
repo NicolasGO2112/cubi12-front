@@ -2,6 +2,18 @@
 
 Cubi12 is (currently) an open source project to help students at UCN (Universidad Católica del Norte) at Chile to understand all the subjects they can take and their progress in the career. Also ships a auth system.
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Prerequisites
 
 Before you begin, make sure you have the following software and tools installed on your system.
