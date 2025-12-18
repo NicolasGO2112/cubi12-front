@@ -7,6 +7,9 @@ ARG backend_url
 # Set the backend URL as an enviroment variable for the build process
 ENV REACT_APP_API_URL $backend_url
 
+# install dependencies only when needed
+RUN npm ci
+
 # Set the working directory in the container
 WORKDIR /app
 
