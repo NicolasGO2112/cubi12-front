@@ -14,6 +14,10 @@ Cubi12 is (currently) an open source project to help students at UCN (Universida
 
 
 
+
+
+
+
 ## Prerequisites
 
 Before you begin, make sure you have the following software and tools installed on your system.
