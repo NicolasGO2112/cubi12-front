@@ -1,6 +1,6 @@
 resource "render_web_service" "frontend" {
   name   = var.frontend_name
-  plan   = "starter"      # 🔴 requerido por el enunciado
+  plan   = "starter"     
   region = var.region
 
   runtime = "docker"
